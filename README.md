@@ -1,2 +1,10 @@
 # 8WeekSQLChallenge
-A collection of completed case studies from https://8weeksqlchallenge.com/
+A collection of completed case studies from Data With Danny's 8 Week SQL Challenge.
+
+The following case studies have been curated by Danny Ma and are available on https://8weeksqlchallenge.com. Queries in each completed case study are written using the PostgreSQL Database Management System.
+
+Case Study          |  Description | Status
+------------------- |  ----------- | -----
+#1: Danny's Diner   | Danny’s Diner is in the first few months of operation but needs assistance using their data to help them keep the business afloat.  | Completed
+#2: Pizza Runner    | Pizza Runner requires further assistance cleaning data and applying basic calculations to better direct runners and optimise business operations. | Completed
+#3: Foodie-Fi       | Foodie-Fi, a subscription based streaming service for cooking shows, wants help utilizing their data to help answer business questions relating to customer retention, churn, and growth. | Completed
