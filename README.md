@@ -5,6 +5,6 @@ The following case studies have been curated by Danny Ma and are available on ht
 
 Case Study          |  Description | Status
 ------------------- |  ----------- | -----
-#1: Danny's Diner   | Danny’s Diner is in the first few months of operation but needs assistance using their data to help them keep the business afloat.  | Completed
-#2: Pizza Runner    | Pizza Runner requires further assistance cleaning data and applying basic calculations to better direct runners and optimise business operations. | Completed
+[#1: Danny's Diner](https://github.com/jessacker/8WeekSQLChallenge/tree/main/CaseStudy1) | Danny’s Diner is in the first few months of operation but needs assistance using their data to help them keep the business afloat.  | Completed
+[#2: Pizza Runner](https://github.com/jessacker/8WeekSQLChallenge/tree/main/CaseStudy2)  | Pizza Runner requires further assistance cleaning data and applying basic calculations to better direct runners and optimise business operations. | Completed
 #3: Foodie-Fi       | Foodie-Fi, a subscription based streaming service for cooking shows, wants help utilizing their data to help answer business questions relating to customer retention, churn, and growth. | Completed
