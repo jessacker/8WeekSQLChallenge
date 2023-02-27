@@ -10,8 +10,6 @@ Danny created Foodie-Fi with a data driven mindset and wanted to ensure all futu
 ### Available Data
 Danny has shared the data design for Foodie-Fi and also short descriptions on each of the database tables - our case study focuses on only 2 tables but there will be a challenge to create a new table for the Foodie-Fi team.
 
-All datasets exist within the foodie_fi database schema - be sure to include this reference within your SQL scripts as you start exploring the data and answering the case study questions.
-
 ### Entity Relationship Diagram
 ![3FoodieFi_ERdiagram](https://user-images.githubusercontent.com/116126763/221586879-276d041c-b8c0-4502-9fb8-7be2d765cf5b.PNG)
 
