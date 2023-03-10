@@ -9,7 +9,7 @@ Case Study       |  Description | Status
 [#2: Pizza Runner](https://github.com/jessacker/8WeekSQLChallenge/tree/main/CaseStudy2)  | Pizza Runner requires further assistance cleaning data and applying basic calculations to better direct runners and optimise business operations. | Completed
 [#3: Foodie-Fi](https://github.com/jessacker/8WeekSQLChallenge/tree/main/CaseStudy3)     | Foodie-Fi, a subscription streaming service for food-related content, wants help utilizing data to better understand customer retention, churn, and growth. | Completed
 [#4: Data Bank](https://github.com/jessacker/8WeekSQLChallenge/tree/main/CaseStudy4)     | Digital bank and data storage platform Data Bank needs help analyzing their data to calculate metrics, growth, and forecast smarter for future developments. | Parts A & B Complete   
-[#5: Data Mart](https://github.com/jessacker/8WeekSQLChallenge/tree/main/CaseStudy5)     | After making large scale supply changes, Data Mart wants help quantifying the impact to their sales performance from the new sustainable packaging methods. | In-Progress
+[#5: Data Mart](https://github.com/jessacker/8WeekSQLChallenge/tree/main/CaseStudy5)     | After making large scale supply changes, Data Mart wants help quantifying the impact to their sales performance from the new sustainable packaging methods. | Completed
 
 SQL techniques used include:
 * conditional statements (`CASE`, `NULLIF`, `COALESCE`, `IN`)
